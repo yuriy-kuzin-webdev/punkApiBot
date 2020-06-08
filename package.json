@@ -1,0 +1,25 @@
+{
+  "name": "punkApiBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriykuzinpd/punkApiBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriykuzinpd/punkApiBot/issues"
+  },
+  "homepage": "https://github.com/yuriykuzinpd/punkApiBot#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2"
+  }
+}
