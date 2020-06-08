@@ -1,3 +1,4 @@
 {
-    "token": "1175161208:AAHdegwBgo9rT7uKchZcsqXfr2sgbs3YtHQ"
+    "token": "1175161208:AAHdegwBgo9rT7uKchZcsqXfr2sgbs3YtHQ",
+    "random": "https://api.punkapi.com/v2/beers/random"
 }
